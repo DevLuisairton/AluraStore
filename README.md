@@ -62,8 +62,6 @@ O projeto foi desenvolvido em um notebook Jupyter contendo:
 
 ## 📝 Como Reproduzir a Análise
 
-1. Clone o repositório (se aplicável)
+1. Clone o repositório `https://github.com/DevLuisairton/AluraStore.git `
 2. Instale as dependências: `pip install pandas matplotlib jupyter`
 3. Execute o notebook Jupyter com a análise completa
-
-*Observação: Os dados originais não estão incluídos neste repositório por questões de confidencialidade.*
